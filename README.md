@@ -1,5 +1,9 @@
 # :wave: The Basics of Git and GitHub 
 
+* [Git cheat sheets](https://education.github.com/git-cheat-sheet-education.pdf)
+* [GitHub Flow guide](https://enterprise.github.com/downloads/en/github-flow-cheatsheet.pdf)
+* [GitHub-Flavored Markdown guide](https://enterprise.github.com/downloads/en/markdown-cheatsheet.pdf)
+
 ## 🤓 Course overview and learning outcomes 
 
 The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
